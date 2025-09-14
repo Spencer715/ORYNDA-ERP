@@ -1,0 +1,8 @@
+fastapi
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pydantic
+python-dotenv
+uvicorn[standard]
+pytest
